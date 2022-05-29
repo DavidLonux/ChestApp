@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Chest Application </title>
+
+        <style>
+            body {
+                margin: 0;
+            }
+
+            nav {
+                width: 100%;
+                height: 5vh;
+                display: flex;
+                align-items: center;
+                justify-content: flex-end;
+                background-color: olive;
+
+                padding: 25px;
+                box-sizing: border-box;
+            }
+
+            nav > * {
+                margin-left: 15px;
+            }
+
+            main {
+                width: 100%;
+                height: 95vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                text-align: center;
+            }
+
+            main > * {
+                margin: 15px;
+            }
+
+            main div > form input{
+                display: block;
+                float: left;
+            }
+
+            #emojiIcon {
+                position: absolute;
+                top: 30%;
+                left: 45%;
+                font-size: 72px;
+            }
+
+            #emojiDescription {
+                position: absolute;
+                top: 70%;
+                font-size: 36px;
+                text-align: center;
+            }
+
+            .box {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-wrap: wrap;
+            }
+        </style>
+    </head>
+
+    <body>
+            <nav> 
+                Logged User: <span th:text="${loggedUser}"></span> &nbsp; >>
+                <a th:href="@{/logout}"> Logout </a>
+            </nav>
+
+            <main>
+                <div th:if="${chestIsOpen}" class="box">
+                    <img th:src="@{/images/kufer_opened.png}" alt="Kufer">
+                    <p th:text="${emojiIcon}" id="emojiIcon"></p>
+                    <p th:text="${emojiDescription}" id="emojiDescription"></p>
+                </div>
+
+                <div th:unless="${chestIsOpen}" class="box">
+                    <img th:src="@{/images/kufer.png}" alt="Kufer">
+                    <p style="width: 100%;"> Enter the code to open: </p>
+                </div>
+
+                <div th:if="${!chestIsOpen}">
+                    <form method="POST" th:object="${code}" th:action="@{/}">
+                        <input type="number" th:field="*{codeNumber}">
+                        <input type="submit" value="Check">
+                    </form>
+                </div>
+            </main>
+    </body>
+
+</html>

@@ -1,0 +1,83 @@
+c       d         h         desc
+😀	&#128512;	1F600 $	Grinning face
+😁	&#128513;	1F601 $	grinning face with smiling eyes
+😂	&#128514;	1F602 $	face with tears of joy
+😃	&#128515;	1F603 $	smiling face with open mouth
+😄	&#128516;	1F604 $	smiling face with open mouth and smiling eyes
+😅	&#128517;	1F605 $	smiling face with open mouth and cold sweat
+😆	&#128518;	1F606 $	smiling face with open mouth and tightly-closed eyes
+😇	&#128519;	1F607 $	smiling face with halo
+😈	&#128520;	1F608 $	smiling face with horns
+😉	&#128521;	1F609 $	winking face
+😊	&#128522;	1F60A $	smiling face with smiling eyes
+😋	&#128523;	1F60B $	face savouring delicious food
+😌	&#128524;	1F60C $	relieved face
+😍	&#128525;	1F60D $	smiling face with heart-shaped eyes
+😎	&#128526;	1F60E $	smiling face with sunglasses
+😏	&#128527;	1F60F $	smirking face
+😐	&#128528;	1F610 $	neutral face
+😑	&#128529;	1F611 $	expressionless face
+😒	&#128530;	1F612 $	unamused face
+😓	&#128531;	1F613 $	face with cold sweat
+😔	&#128532;	1F614 $	pensive face
+😕	&#128533;	1F615 $	confused face
+😖	&#128534;	1F616 $	confounded face
+😗	&#128535;	1F617 $	kissing face
+😘	&#128536;	1F618 $	face throwing a kiss
+😙	&#128537;	1F619 $	kissing face with smiling eyes
+😚	&#128538;	1F61A $	kissing face with closed eyes
+😛	&#128539;	1F61B $	face with stuck-out tongue
+😜	&#128540;	1F61C $	face with stuck-out tongue and winking eye
+😝	&#128541;	1F61D $	face with stuck-out tongue and tightly-closed eyes
+😞	&#128542;	1F61E $	disappointed face
+😟	&#128543;	1F61F $	worried face
+😠	&#128544;	1F620 $	angry face
+😡	&#128545;	1F621 $	pouting face
+😢	&#128546;	1F622 $	crying face
+😣	&#128547;	1F623 $	persevering face
+😤	&#128548;	1F624 $	face with look of triumph
+😥	&#128549;	1F625 $	disappointed but relieved face
+😦	&#128550;	1F626 $	frowning face with open mouth
+😧	&#128551;	1F627 $	anguished face
+😨	&#128552;	1F628 $	fearful face
+😩	&#128553;	1F629 $	weary face
+😪	&#128554;	1F62A $	sleepy face
+😫	&#128555;	1F62B $	tired face
+😬	&#128556;	1F62C $	grimacing face
+😭	&#128557;	1F62D $	loudly crying face
+😮	&#128558;	1F62E $	face with open mouth
+😯	&#128559;	1F62F $	hushed face
+😰	&#128560;	1F630 $	face with open mouth and cold sweat
+😱	&#128561;	1F631 $	face screaming in fear
+😲	&#128562;	1F632 $	astonished face
+😳	&#128563;	1F633 $	flushed face
+😴	&#128564;	1F634 $	sleeping face
+😵	&#128565;	1F635 $	dizzy face
+😶	&#128566;	1F636 $	face without mouth
+😷	&#128567;	1F637 $	face with medical mask
+🙁	&#128577;	1F641 $	slightly frowning face
+🙂	&#128578;	1F642 $	slightly smiling face
+🙃	&#128579;	1F643 $	upside-down face
+🙄	&#128580;	1F644 $	face with rolling eyes
+🤐	&#129296;	1F910 $	zipper-mouth face
+🤑	&#129297;	1F911 $	money-mouth face
+🤒	&#129298;	1F912 $	face with thermometer
+🤓	&#129299;	1F913 $	nerd face
+🤔	&#129300;	1F914 $	thinking face
+🤕	&#129301;	1F915 $	face with head-bandage
+🤠	&#129312;	1F920 $	cowboy hat face
+🤡	&#129313;	1F921 $	clown face
+🤢	&#129314;	1F922 $	nauseated face
+🤣	&#129315;	1F923 $	rolling on the floor laughing
+🤤	&#129316;	1F924 $	drooling face
+🤥	&#129317;	1F925 $	lying face
+🤧	&#129319;	1F927 $	sneezing face
+🤨	&#129320;	1F928 $	face with raised eyebrow
+🤩	&#129321;	1F929 $	star-struck
+🤪	&#129322;	1F92A $	zany face
+🤫	&#129323;	1F92B $	shushing face
+🤬	&#129324;	1F92C $	angry
+🤭	&#129325;	1F92D $	face with hand over mouth
+🤮	&#129326;	1F92E $	face vomiting
+🤯	&#129327;	1F92F $	exploding head
+🧐	&#129488;	1F9D0 $	face with monocle
