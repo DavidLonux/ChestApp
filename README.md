@@ -8,6 +8,7 @@ Used technologies:
   - Spring Boot
   - Spring Security
   - Thymeleaf
+  - Lombok
 
 ---
 
